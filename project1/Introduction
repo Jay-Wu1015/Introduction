@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Jay's Introduction</title>
+    <link rel="stylesheet" type="text/css" href="MAIN.CSS">
+  </head>
+  <body>
+
+    <h1>
+      <p>My name is Jay Wu </p>
+
+
+      <p>Personal information
+
+
+        <ul class="mail">  
+        <li>and8888@gmail.com</li>
+        </ul>
+      <p>Eduaction
+        <li>Bachelor degree: National Tsing-Hua Unsiversity<br>
+            &nbsp&nbsp&nbsp&nbsp-Department of Engineer & System Science
+        </li>
+        <li>Master degree: National Tsing-Hua Unsiversity<br>
+            &nbsp&nbsp&nbsp&nbsp-Department of Engineer & System Science
+        </li>
+
+
+      <div style="border:2px blue solid;">
+  <p>Research & Expertise:
+        <ul style="list-style-type: square;">
+        <li>Thermal & Fluid Mechanicl</li>
+        </ul>
+         <ol>
+                <li>Boling & Heat Transfer </li>
+                <li>Two-phase flow analysis</li>
+                <li>Refrigeration cycle</li>
+                <li>Mechanical</li>
+        </ol>
+        <ul style="list-style-type: square;">
+        <li>MEMS & semi-conductor</li>
+        </ul>
+        <ol>
+               <li>Mechanical design </li>
+       </ol>
+
+
+    </h>
+
+  </body>
+</html>

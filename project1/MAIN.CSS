@@ -1,0 +1,13 @@
+h1{
+
+  /*color: red;*/
+  font-size: 25px;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  /*text-align: CENTER;*/
+  /*background-color:rgba(59, 48, 215, 0.84,0.2);*/
+
+}
+
+ul.mail {
+list-style-image: lower-greek;
+}
